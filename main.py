@@ -1,7 +1,7 @@
 def hello_world():
 
 
-    print("hiiiiii")
+    print("hi")
 
     print("Hi there")
 
